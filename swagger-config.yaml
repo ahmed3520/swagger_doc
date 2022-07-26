@@ -1,0 +1,4 @@
+---
+url: "./msp-v1.json"
+dom_id: "#swagger-ui"
+validatorUrl: "https://validator.swagger.io/validator"
