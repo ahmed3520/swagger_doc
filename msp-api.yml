@@ -478,9 +478,9 @@ schemes:
  - https
  - http
 # Added by API Auto Mocking Plugin
-host: msp-test.onrender.com
-basePath: /API/v
+# host: msp-test.onrender.com
+basePath: /API/v1
 # Added by API Auto Mocking Plugin
 # host: msp-test.onrender.com
 # Added by API Auto Mocking Plugin
-#host: virtserver.swaggerhub.com
+host: msp-test.onrender.com
